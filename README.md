@@ -1,4 +1,4 @@
-# 🎬 Trabalho Frontend — Locadora de Filmes & Jogos Antigos
+# 🎬 Locadora de Filmes & Jogos Antigos
 
 > Aplicação web desenvolvida em React simulando o sistema de uma locadora de filmes e jogos antigos. Projeto final da disciplina de Desenvolvimento Frontend.
 
